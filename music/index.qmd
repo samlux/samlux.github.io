@@ -1,0 +1,16 @@
+---
+title: "Classical Music"
+description: "Listening notes, recordings, concerts, and musical discoveries"
+listing:
+  contents: posts
+  type: grid
+  sort: "date desc"
+  categories: true
+  page-size: 9
+---
+
+The other half of my spare time and money goes here. 
+
+This section contains informal notes on classical music, including
+recordings I admire, concert reflections, and works I have recently
+discovered.

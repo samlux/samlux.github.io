@@ -42,3 +42,11 @@ experimental evidence.
 ## Current status
 
 I expect to graduate in Fall 2026 and am interested in postdoctoral involving computational biology, bioinformatics, and machine learning.
+
+## Beyond research
+
+Outside computational biology, I travel around the world for food and classical music.
+
+
+[Food notes](food/index.qmd){.btn .btn-outline-primary}
+[Classical music notes](music/index.qmd){.btn .btn-outline-primary}

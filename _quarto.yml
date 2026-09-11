@@ -15,6 +15,12 @@ website:
         text: Publications
       - href: software.qmd
         text: Software
+      - text: Beyond Research
+        menu:
+          - href: food/index.qmd
+            text: Food
+          - href: music/index.qmd
+            text: Classical Music
       - href: about.qmd
         text: About
     right:

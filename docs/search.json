@@ -1,5 +1,12 @@
 [
   {
+    "objectID": "food/index.html",
+    "href": "food/index.html",
+    "title": "Food",
+    "section": "",
+    "text": "Half of my spare time and money goes to here.\nHere I write about memorable restaurants, cooking experiments, ingredients, and food encountered during my travels.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nExtracting the aroma and numbing sensation of Sichuan pepper\n\n\n\nCooking\n\nIngredients\n\nSichuan\n\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "software.html",
     "href": "software.html",
     "title": "Software and data",
@@ -70,6 +77,20 @@
     "text": "Molecular dynamics and protein thermal stability\n\n\n\nMolecular-dynamics workflow\n\n\n\nQuestion\nCan molecular-dynamics simulations reveal how sequence variation influences protein thermal stability?\n\n\nApproach\nI compare structural behavior across simulation temperatures using measures such as conformational fluctuation, compactness, and secondary-structure retention.\n\n\nSignificance\nThe project connects experimental stability measurements with atomistic descriptions of protein behavior."
   },
   {
+    "objectID": "music/posts/recording-notes.html",
+    "href": "music/posts/recording-notes.html",
+    "title": "Comparing three recordings of a favorite symphony",
+    "section": "",
+    "text": "Your article begins here."
+  },
+  {
+    "objectID": "music/index.html",
+    "href": "music/index.html",
+    "title": "Classical Music",
+    "section": "",
+    "text": "The other half of my spare time and money goes here.\nThis section contains informal notes on classical music, including recordings I admire, concert reflections, and works I have recently discovered.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nComparing three recordings of a favorite symphony\n\n\n\nRecordings\n\nSymphony\n\n\n\n\n\n\n\n\n\n\nSep 11, 2026\n\n\n\n\n\n\nNo matching items"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Senbao Lu",
@@ -98,6 +119,13 @@
     "text": "Current status\nI expect to graduate in Fall 2026 and am interested in postdoctoral involving computational biology, bioinformatics, and machine learning."
   },
   {
+    "objectID": "index.html#beyond-research",
+    "href": "index.html#beyond-research",
+    "title": "Senbao Lu",
+    "section": "Beyond research",
+    "text": "Beyond research\nOutside computational biology, I travel around the world for food and classical music.\nFood notes Classical music notes"
+  },
+  {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About me",
@@ -124,5 +152,12 @@
     "title": "About me",
     "section": "Contact",
     "text": "Contact\nThe best way to contact me is at personal@email.com."
+  },
+  {
+    "objectID": "food/posts/sichuan-pepper.html",
+    "href": "food/posts/sichuan-pepper.html",
+    "title": "Extracting the aroma and numbing sensation of Sichuan pepper",
+    "section": "",
+    "text": "Your article begins here."
   }
 ]

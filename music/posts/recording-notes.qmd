@@ -1,0 +1,8 @@
+---
+title: "Comparing three recordings of a favorite symphony"
+date: 2026-09-11
+categories: [Recordings, Symphony]
+image: recording-cover.jpg
+---
+
+Your article begins here.
