@@ -1,0 +1,128 @@
+[
+  {
+    "objectID": "software.html",
+    "href": "software.html",
+    "title": "Software and data",
+    "section": "",
+    "text": "A computational pipeline for predicting the stability of alternatively spliced protein isoforms.\n\nLanguage: Python\nMethods: Machine learning, sequence analysis, structural features\nRepository: View on GitHub\nDocumentation: Read the documentation"
+  },
+  {
+    "objectID": "software.html#project-name",
+    "href": "software.html#project-name",
+    "title": "Software and data",
+    "section": "",
+    "text": "A computational pipeline for predicting the stability of alternatively spliced protein isoforms.\n\nLanguage: Python\nMethods: Machine learning, sequence analysis, structural features\nRepository: View on GitHub\nDocumentation: Read the documentation"
+  },
+  {
+    "objectID": "software.html#additional-tools",
+    "href": "software.html#additional-tools",
+    "title": "Software and data",
+    "section": "Additional tools",
+    "text": "Additional tools\n\nTool name\nOne or two sentences explaining what the tool does, who it is useful for, and why you created it.\nView source code"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor A, Coauthor B.\n“Title of the article.” Journal Name (2026).\nDOI · PubMed · Code\nCoauthor A, Your Name, Coauthor B.\n“Title of another article.” Journal Name (2025).\nDOI"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-publications",
+    "href": "publications.html#peer-reviewed-publications",
+    "title": "Publications",
+    "section": "",
+    "text": "Your Name, Coauthor A, Coauthor B.\n“Title of the article.” Journal Name (2026).\nDOI · PubMed · Code\nCoauthor A, Your Name, Coauthor B.\n“Title of another article.” Journal Name (2025).\nDOI"
+  },
+  {
+    "objectID": "publications.html#preprints",
+    "href": "publications.html#preprints",
+    "title": "Publications",
+    "section": "Preprints",
+    "text": "Preprints\n\nYour Name, Coauthor A.\n“Preprint title.” bioRxiv (2026).\nPreprint · Code"
+  },
+  {
+    "objectID": "publications.html#selected-presentations",
+    "href": "publications.html#selected-presentations",
+    "title": "Publications",
+    "section": "Selected presentations",
+    "text": "Selected presentations\n\n“Presentation title.” Conference name, year.\n“Poster title.” Conference name, year."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "Overview of the isoform-stability project\n\n\n\n\nHow does alternative splicing alter the stability and functional potential of human proteins?\n\n\n\nI develop computational models that integrate protein sequence, transcript annotation, structural features, and machine-learning predictions.\n\n\n\nThis work aims to distinguish stable protein products from isoforms that are unlikely to form functional proteins."
+  },
+  {
+    "objectID": "research.html#predicting-alternatively-spliced-protein-isoform-stability",
+    "href": "research.html#predicting-alternatively-spliced-protein-isoform-stability",
+    "title": "Research",
+    "section": "",
+    "text": "Overview of the isoform-stability project\n\n\n\n\nHow does alternative splicing alter the stability and functional potential of human proteins?\n\n\n\nI develop computational models that integrate protein sequence, transcript annotation, structural features, and machine-learning predictions.\n\n\n\nThis work aims to distinguish stable protein products from isoforms that are unlikely to form functional proteins."
+  },
+  {
+    "objectID": "research.html#molecular-dynamics-and-protein-thermal-stability",
+    "href": "research.html#molecular-dynamics-and-protein-thermal-stability",
+    "title": "Research",
+    "section": "Molecular dynamics and protein thermal stability",
+    "text": "Molecular dynamics and protein thermal stability\n\n\n\nMolecular-dynamics workflow\n\n\n\nQuestion\nCan molecular-dynamics simulations reveal how sequence variation influences protein thermal stability?\n\n\nApproach\nI compare structural behavior across simulation temperatures using measures such as conformational fluctuation, compactness, and secondary-structure retention.\n\n\nSignificance\nThe project connects experimental stability measurements with atomistic descriptions of protein behavior."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Senbao Lu",
+    "section": "",
+    "text": "I am a Ph.D. candidate in the Korkin Lab at Worcester Polytechnic Institute. My research combines bioinformatics, machine learning, and structural biology to understand how alternative splicing affects protein stability and disease.\nI develop computational methods for analyzing protein isoforms and validate their predictions using structural, evolutionary, and experimental evidence.\nDownload my CV Explore my research"
+  },
+  {
+    "objectID": "index.html#computational-biologist-studying-protein-isoform-stability",
+    "href": "index.html#computational-biologist-studying-protein-isoform-stability",
+    "title": "Senbao Lu",
+    "section": "",
+    "text": "I am a Ph.D. candidate in the Korkin Lab at Worcester Polytechnic Institute. My research combines bioinformatics, machine learning, and structural biology to understand how alternative splicing affects protein stability and disease.\nI develop computational methods for analyzing protein isoforms and validate their predictions using structural, evolutionary, and experimental evidence.\nDownload my CV Explore my research"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Senbao Lu",
+    "section": "Research interests",
+    "text": "Research interests\n\nAlternative protein isoforms\nProtein stability and molecular dynamics\nMachine learning for biological prediction\nStructural bioinformatics"
+  },
+  {
+    "objectID": "index.html#current-status",
+    "href": "index.html#current-status",
+    "title": "Senbao Lu",
+    "section": "Current status",
+    "text": "Current status\nI expect to graduate in Fall 2026 and am interested in postdoctoral involving computational biology, bioinformatics, and machine learning."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About me",
+    "section": "",
+    "text": "I am a computational biologist interested in understanding how changes in RNA and protein sequences produce differences in molecular structure, stability, and disease biology.\nI am currently completing my Ph.D. in the Korkin Lab at Worcester Polytechnic Institute. My work spans bioinformatics, machine learning, protein structure, and molecular dynamics."
+  },
+  {
+    "objectID": "about.html#beyond-research",
+    "href": "about.html#beyond-research",
+    "title": "About me",
+    "section": "Beyond research",
+    "text": "Beyond research\nOutside the lab, I enjoy [travel, cooking, photography, hiking, music, or other genuine interests]. These interests help me approach scientific problems with curiosity and a broader perspective."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About me",
+    "section": "Education",
+    "text": "Education\nPh.D. in [program name]\nWorcester Polytechnic Institute, expected [year]\nPrevious degree\nUniversity name, year"
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About me",
+    "section": "Contact",
+    "text": "Contact\nThe best way to contact me is at personal@email.com."
+  }
+]

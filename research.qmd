@@ -1,0 +1,45 @@
+---
+title: "Research"
+---
+
+## Predicting alternatively spliced protein isoform stability
+
+![Overview of the isoform-stability project](images/isoform-project.jpg)
+
+### Question
+
+How does alternative splicing alter the stability and functional
+potential of human proteins?
+
+### Approach
+
+I develop computational models that integrate protein sequence,
+transcript annotation, structural features, and machine-learning
+predictions.
+
+### Significance
+
+This work aims to distinguish stable protein products from isoforms
+that are unlikely to form functional proteins.
+
+---
+
+## Molecular dynamics and protein thermal stability
+
+![Molecular-dynamics workflow](images/md-project.jpg)
+
+### Question
+
+Can molecular-dynamics simulations reveal how sequence variation
+influences protein thermal stability?
+
+### Approach
+
+I compare structural behavior across simulation temperatures using
+measures such as conformational fluctuation, compactness, and
+secondary-structure retention.
+
+### Significance
+
+The project connects experimental stability measurements with
+atomistic descriptions of protein behavior.

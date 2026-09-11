@@ -1,0 +1,43 @@
+/* Main page width and typography */
+body {
+  font-size: 1.05rem;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 1050px;
+}
+
+/* Headings */
+h1, h2, h3 {
+  color: #18324a;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  margin-top: 2.5rem;
+}
+
+/* Links */
+a {
+  color: #176b87;
+}
+
+/* Images */
+img {
+  border-radius: 6px;
+}
+
+/* Navigation bar */
+.navbar {
+  border-bottom: 1px solid #e8e8e8;
+}
+
+/* Buttons */
+.btn-primary {
+  background-color: #176b87;
+  border-color: #176b87;
+}

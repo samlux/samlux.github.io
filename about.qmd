@@ -1,0 +1,30 @@
+---
+title: "About me"
+---
+
+I am a computational biologist interested in understanding how changes
+in RNA and protein sequences produce differences in molecular structure,
+stability, and disease biology.
+
+I am currently completing my Ph.D. in the Korkin Lab at Worcester
+Polytechnic Institute. My work spans bioinformatics, machine learning,
+protein structure, and molecular dynamics.
+
+## Beyond research
+
+Outside the lab, I enjoy [travel, cooking, photography, hiking, music,
+or other genuine interests]. These interests help me approach scientific
+problems with curiosity and a broader perspective.
+
+## Education
+
+**Ph.D. in [program name]**  
+Worcester Polytechnic Institute, expected [year]
+
+**Previous degree**  
+University name, year
+
+## Contact
+
+The best way to contact me is at
+[personal@email.com](mailto:personal@email.com).

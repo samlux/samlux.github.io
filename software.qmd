@@ -1,0 +1,22 @@
+---
+title: "Software and data"
+---
+
+## Project name
+
+A computational pipeline for predicting the stability of alternatively
+spliced protein isoforms.
+
+- **Language:** Python
+- **Methods:** Machine learning, sequence analysis, structural features
+- **Repository:** [View on GitHub](REPOSITORY-URL)
+- **Documentation:** [Read the documentation](DOCUMENTATION-URL)
+
+## Additional tools
+
+### Tool name
+
+One or two sentences explaining what the tool does, who it is useful
+for, and why you created it.
+
+[View source code](REPOSITORY-URL)

@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Senbao Lu's Personal Website"
+  description: "Computational Biology | Food | Classical Music"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      - href: software.qmd
+        text: Software
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/samlux
+      - icon: linkedin
+        href: https://www.linkedin.com/in/senbaolu
+      - icon: envelope
+        href: mailto:slu3@wpi.edu
+  page-footer:
+    center: "© 2026 Senbao Lu. All rights reserved."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+    smooth-scroll: true
+
+

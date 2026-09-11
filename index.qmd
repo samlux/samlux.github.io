@@ -1,0 +1,44 @@
+---
+title: "Senbao Lu"
+image: images/headshot.jpg
+about:
+  template: jolla
+  links:
+    - icon: file-earmark-person
+      text: CV
+      href: files/SenbaoLu_CV.pdf
+    - icon: google
+      text: Google Scholar
+      href: https://scholar.google.com/citations?user=M4q8jucAAAAJ&hl=en
+    - icon: github
+      text: GitHub
+      href: https://github.com/samlux
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/senbaolu
+---
+
+## Computational biologist studying protein isoform stability
+
+I am a Ph.D. candidate in the Korkin Lab at Worcester Polytechnic
+Institute. My research combines bioinformatics, machine learning, and
+structural biology to understand how alternative splicing affects
+protein stability and disease.
+
+I develop computational methods for analyzing protein isoforms and
+validate their predictions using structural, evolutionary, and
+experimental evidence.
+
+[Download my CV](files/SenbaoLu_CV.pdf){.btn .btn-primary}
+[Explore my research](research.qmd){.btn .btn-outline-primary}
+
+## Research interests
+
+- Alternative protein isoforms
+- Protein stability and molecular dynamics
+- Machine learning for biological prediction
+- Structural bioinformatics
+
+## Current status
+
+I expect to graduate in Fall 2026 and am interested in postdoctoral involving computational biology, bioinformatics, and machine learning.

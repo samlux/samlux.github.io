@@ -1,0 +1,24 @@
+---
+title: "Publications"
+---
+
+## Peer-reviewed publications
+
+1. **Your Name**, Coauthor A, Coauthor B.  
+   “Title of the article.” *Journal Name* (2026).  
+   [DOI](https://doi.org/DOI-HERE) · [PubMed](PUBMED-URL) · [Code](GITHUB-URL)
+
+2. Coauthor A, **Your Name**, Coauthor B.  
+   “Title of another article.” *Journal Name* (2025).  
+   [DOI](https://doi.org/DOI-HERE)
+
+## Preprints
+
+1. **Your Name**, Coauthor A.  
+   “Preprint title.” *bioRxiv* (2026).  
+   [Preprint](PREPRINT-URL) · [Code](GITHUB-URL)
+
+## Selected presentations
+
+- “Presentation title.” Conference name, year.
+- “Poster title.” Conference name, year.
