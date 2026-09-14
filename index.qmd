@@ -1,6 +1,6 @@
 ---
 title: "Senbao Lu"
-image: images/headshot.jpg
+image: images/Headshot.JPG
 about:
   template: jolla
   links:

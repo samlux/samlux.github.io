@@ -9,7 +9,7 @@ listing:
   page-size: 9
 ---
 
-Half of my spare time and money goes to here. 
+Half of my spare time goes to here. 
 
-Here I write about memorable restaurants, cooking experiments, ingredients, and
+I write about memorable restaurants, cooking experiments, ingredients, and
 food encountered during my travels.
