@@ -1,0 +1,8 @@
+---
+title: "Beijing: A Culinary Journey" 
+date: 2000-01-01
+categories: [Beijing]
+image: Beijing/Beijing-cover.jpeg
+---
+
+A list of food memories back in beijing. Always updating...

@@ -1,6 +1,6 @@
 ---
-title: "Vandelvira: 'Genius cuisine''" 
-date: 2026-09-11
+title: "Vandelvira: 'Genius cuisine'" 
+date: 2026-03-13
 categories: [Fine Dining, Spain]
 image: Vandelvira/IMG_5118.jpeg
 ---
