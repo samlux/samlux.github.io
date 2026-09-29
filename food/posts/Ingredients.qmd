@@ -1,0 +1,8 @@
+---
+title: "Ingredients: A Culinary Memory" 
+date: 2000-01-01
+categories: [Cooking]
+image: Cooking/Beijing-cover.jpeg
+---
+
+A list of fun ingredients and their stories. Always updating...

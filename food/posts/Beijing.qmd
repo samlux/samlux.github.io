@@ -1,8 +1,32 @@
 ---
-title: "Beijing: A Culinary Journey" 
+title: "Beijing: A Culinary Memory" 
 date: 2000-01-01
-categories: [Beijing]
+categories: [Home, China]
 image: Beijing/Beijing-cover.jpeg
 ---
 
-A list of food memories back in beijing. Always updating...
+A list of food memories back in Beijing. Always updating...
+
+蒋姨家的饺子是全世界最好吃的东西！
+![Dumpling](Beijing/IMG_2144.jpeg)
+
+京华楼的油爆双脆是中餐集刀工，火候，调味于一体的典范。
+![Pork and Duck Stomach](Beijing/IMG_4930.jpeg)
+
+俏东北的东北名菜锅包肉。
+![Guobao Pork](Beijing/IMG_0037.jpeg)
+
+德富来炒菜店的火爆鳝鱼，双椒肥肠, 板前川菜，镬气十足。
+![Stir-fried Eel and Double-pepper Pig Intestine](Beijing/IMG_1923.jpeg)
+
+京华楼姑苏“四大名肉”之糟汁肉：选用上好的五花肉蒸至定型，用酒糟泥包裹腌制两天，再经过油炸、糟汁炖、冷却，最后上桌前蒸熟浇汁，糟香浓郁、软糯鲜香。
+![Rice Wine Pork](Beijing/IMG_0166.jpeg)
+
+潮上潮的乳鸽，外皮酥脆，肉质爆汁。
+![Roast Pigeon](Beijing/IMG_2450.jpeg)
+
+丰泽园的葱烧海参，葱香浓郁，海参软糯入味。
+![Braised Sea Cucumber](Beijing/IMG_9933.jpeg)
+
+湘上湘的东安鸡，味型独特，醋酸与姜辣交织，回味悠长。
+![Dong'an Chicken](Beijing/IMG_9063.jpeg)

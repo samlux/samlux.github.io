@@ -4,13 +4,14 @@
     "items": [
       "/food/posts/Vandelvira.html",
       "/food/posts/Reale.html",
-      "/food/posts/Beijing.html"
+      "/food/posts/Beijing.html",
+      "/food/posts/Ingredients.html"
     ]
   },
   {
     "listing": "/music/index.html",
     "items": [
-      "/music/posts/recording-notes.html"
+      "/music/posts/Bruckner.html"
     ]
   }
 ]
